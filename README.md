@@ -4,7 +4,7 @@
 
 Welcome to deployment 4, for this deployment you will need to deploy a Flask application to AWS Elastic Beanstalk. This repository already has a flask app you can deploy to test your setup configurations. Deploy the url shortner application into your AWSEB. After you've deployed the url shortner application, create your own Flask application and deploy it to your AWSEB.    
 
-Remember to create a requirements.txt for your Flask application and name your application file ***application.py***. 
+Remember to create a requirements.txt for your Flask application and name your application file ***application.py*** 
 
 ***Requirements:*** 
 - [x]Fork this repo (https://github.com/kura-labs-org/DEPLOY04_FLASK_APP) to have a copy of the url shortner application.
